@@ -467,7 +467,7 @@ unicode = 00A0;
 },
 {
 glyphname = A;
-lastChange = "2021-11-06 03:09:09 +0000";
+lastChange = "2021-11-06 04:46:03 +0000";
 layers = (
 {
 background = {
@@ -1765,7 +1765,7 @@ unicode = 01FC;
 },
 {
 glyphname = B;
-lastChange = "2021-11-06 03:09:09 +0000";
+lastChange = "2021-11-06 04:46:16 +0000";
 layers = (
 {
 background = {
@@ -2041,7 +2041,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2021-11-06 03:09:09 +0000";
+lastChange = "2021-11-06 04:46:26 +0000";
 layers = (
 {
 background = {
@@ -2205,15 +2205,6 @@ nodes = (
 "-40 53 OFFCURVE",
 "77 -45 OFFCURVE",
 "260 -45 CURVE SMOOTH"
-);
-},
-{
-closed = 0;
-nodes = (
-"645 77 LINE",
-"645 80 OFFCURVE",
-"645 81 OFFCURVE",
-"645 79 CURVE SMOOTH"
 );
 }
 );
